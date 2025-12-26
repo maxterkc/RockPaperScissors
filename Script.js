@@ -1,4 +1,3 @@
-
 function getHumanChoice() {
     const choice =
     prompt("Please enter your choice Rock, Paper or Scissors").toLowerCase();
